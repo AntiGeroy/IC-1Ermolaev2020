@@ -1,1 +1,3 @@
-# IC-1Ermolaev2020
+Repository for submitting C++ exercises for IC++1 subject.
+Student's Name: Vladislav Ermolaev
+Student's NetID: st58226
